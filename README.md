@@ -21,14 +21,14 @@ $ sudo apt-get update
 $ sudo apt-get install python-pip
 $ https://github.com/TH4WN3/FBI.git
 $ cd fbi
-
+```
 # [ Setup ]
-
+```
 $ pip2 install -r requirements.txt
-
+```
 # [ Running ]
-
+```
 $ python fbi.py
-
+```
 
 
