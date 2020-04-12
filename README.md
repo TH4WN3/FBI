@@ -16,7 +16,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 
 
 # [ Installation ]
-
+```
 $ sudo apt-get update
 $ sudo apt-get install python-pip
 $ https://github.com/TH4WN3/FBI.git
